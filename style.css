@@ -1,0 +1,122 @@
+body {
+    
+    background-image: url(https://previews.123rf.com/images/neyro2008/neyro20081701/neyro2008170100352/70448462-speed-warp-vector-background-radiator-hyperspace-star-wars-zoom-effect.jpg);
+    background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   position: relative;
+}
+img {
+   display: flex;
+   height: 500px;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+.div1 {
+   background-image: url(https://static-cse.canva.com/blob/140234/Rainbow-Gradient-Pink-and-Purple-Zoom-Virtual-Background.png);
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   position: relative;
+   border-style: solid; 
+   border-width: 1px;
+}
+.p2 {
+   margin: 30px;;
+}
+h1 {
+   color: red;
+ text-shadow: 4px 4px 8px #000000;
+ font-family: Impact;
+ text-align: center;
+ font-size: 70px;
+}
+.div2 {
+   background-image: url(https://media.istockphoto.com/photos/blue-abstract-background-or-texture-picture-id1138395421?k=6&m=1138395421&s=612x612&w=0&h=bJ1SRWujCgg3QWzkGPgaRiArNYohPl7-Wc4p_Fa_cyA=);
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   position: relative;
+   border-style: solid; 
+   border-width: 1px;   
+}
+.p1 {
+   color: whitesmoke;
+   margin: 30px;
+}
+
+.p3 {
+   margin: 40px;
+}
+.div4 {
+   
+   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdPno5I_jFYvZ_-CSTlGuC0Z9adoFRQwRIK-OOmUrYCiVDlFxs5rSIXRtcgTQoyfQH4fg&usqp=CAU);
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   position: relative;
+   padding: 10px;
+}
+
+.div5 {
+   background-image: url(https://static-cse.canva.com/blob/140234/Rainbow-Gradient-Pink-and-Purple-Zoom-Virtual-Background.png);
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   position: relative;
+   padding: 20px;
+   
+}
+h2 {
+   text-align: center;
+   font-family: Impact, Haettenschweiler;
+}
+.p4 {
+   margin: 40px;
+   color: whitesmoke;
+}
+thead {
+   background-color: lightsteelblue;
+   
+}
+table, td, th {
+   border: 2px solid white;
+   border-collapse: collapse;
+}
+table {
+   margin-left: auto;
+   margin-right: auto;
+   margin-bottom: auto;
+  
+}
+.responsive-iframe {
+   position: absolute;
+   top: 0;
+   left: 0;
+   bottom: 0;
+   right: 0;
+   width: 100%;
+   height: 100%;
+ }
+ .vid {
+   
+       position: relative;
+       overflow: hidden;
+       width: 100%;
+       padding-top: 56.25%;
+ }
+ form {
+     text-align: center;
+ }
+ .flex-container {
+   display: flex;
+   background-color: cadetblue;
+   margin: 100px;
+}
+.flex-container > div {
+   background-color: thistle;
+   margin: 10px;
+   padding: 70px;
+   font-size: 20px;
+}
